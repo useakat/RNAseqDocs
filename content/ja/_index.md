@@ -3,7 +3,7 @@ title: RNA-seq 研究ページ
 ---
 
 {{< blocks/cover title="RNA-seqを用いた研究記録のページです" image_anchor="top" height="full" >}}
-<!-- <p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p> -->
+<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
