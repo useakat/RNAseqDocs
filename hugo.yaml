@@ -1,4 +1,4 @@
-baseURL: https://example.docsy.dev
+baseURL: "/"
 title: RNA-seq 研究サイト
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -49,12 +49,6 @@ languages:
     title: RNA-seq 研究サイト
     params:
       description: RNA-seqを用いた研究のまとめサイトです
-  en:
-    languageName: English
-    title: RNA-seq Study Site
-    params:
-      description: This site collects info about my reseach topis using RNA-seq Analysis
-  # cSpell:enable
 
 markup:
   goldmark:
